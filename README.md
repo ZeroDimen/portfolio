@@ -62,3 +62,15 @@
 >> 
 >> [프로젝트 상세 설명](https://github.com/mista-che/LikeLion5th-3DGame)
 
+
+<br />
+
+## 5. :iphone: Slime Runner (Mobile)
+> 2D 하이퍼케주얼 게임 개발 [멋쟁이사자처럼 - 01조 팀프로젝트]
+>
+> - 개발 기간 : 2025/07/12 ~ 진행중
+> - 핵심 역할 : 팀장, UI 설계 및 개발, 데이터 저장기능 추가
+>> - Language : C# 
+>> - Skill : Unity
+>> 
+>> [프로젝트 상세 설명](https://github.com/Lion-Unity-Team/WepGl_Game)
