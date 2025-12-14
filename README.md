@@ -14,7 +14,7 @@
 
 현재까지 진행했던 프로젝트들 입니다!
 
-## 1. :computer: GameProject (PC)
+## 1. :computer: Capstone Design 2 (PC)
 > Unity를 이용한 메트로배니아 게임 개발 [캡스톤 디자인 2 - 팀명 Pork-Empire]
 > 
 > - 개발 기간 : 2024/01 ~ 2024/06  
@@ -23,7 +23,7 @@
 >> - Language : C# 
 >> - Skill : Unity
 >>
->> [프로젝트 상세 설명](https://github.com/ZeroDimen/GameProject)
+>> [프로젝트 상세 설명](https://github.com/ZeroDimen/Capstone_Design_2)
 
 <br />
 
