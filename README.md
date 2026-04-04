@@ -28,7 +28,7 @@
 >>
 >> 프로젝트 상세 설명  
 >> [GitHub](https://github.com/Lion-Unity-Team/WepGl_Game)  
->> [Notion](https://momentous-mayflower-9bb.notion.site/Slime-Runner-327fb3a64e0981d7bd59dbae2b8bcfe4)
+>> [Notion](https://zerodimen.notion.site/slime-runner)
 
 <br />
 
@@ -42,11 +42,11 @@
 >>
 >> 프로젝트 상세 설명  
 >> [GitHub](https://github.com/ZeroDimen/Another_Round-OnlyCode-)  
->> [Notion](https://momentous-mayflower-9bb.notion.site/Another-Round-327fb3a64e0981e9a662d06908d4c8d9)
+>> [Notion](https://zerodimen.notion.site/another-round)
 
 <br />
 
-## 3. :computer: Concave (PC)
+## 3. :computer: Omok (PC)
 > Unity를 이용한 오목 게임 개발 [멋쟁이사자처럼 - 16조 팀프로젝트]
 >
 > - 개발 기간 : 2025/09/10 ~ 2025/09/21
@@ -56,7 +56,7 @@
 >>
 >> 프로젝트 상세 설명  
 >> [GitHub](https://github.com/tailless99/omok-16)  
->> [Notion](https://momentous-mayflower-9bb.notion.site/Omok-327fb3a64e0981b9ae21d28ab2bbb582)
+>> [Notion](https://zerodimen.notion.site/omok)
 
 
 ## 4. :computer: Capstone Design 2 (PC)
@@ -70,17 +70,4 @@
 >>
 >> 프로젝트 상세 설명  
 >> [GitHub](https://github.com/ZeroDimen/Capstone_Design_2)  
->> [Notion](https://momentous-mayflower-9bb.notion.site/Capstone-Design-2-327fb3a64e09819ca90fd2c2c7be2533)
-
-<br />
-
-## 5. :iphone: Brick(Mobile)
-> Unity를 이용한 벽돌깨기 게임 개발 [팀명 Pork-Empire]
->
-> - 개발 기간 : 2024/08 ~ 2024/12
-> - 핵심 역할 : UI 설계, Json형식으로 사용자의 정보를 읽기 및 저장 구현
->> - Language : C# 
->> - Skill : Unity
->>
->> 프로젝트 상세 설명  
->> [GitHub](https://github.com/ZeroDimen/Brick)
+>> [Notion](https://zerodimen.notion.site/Capstone-Design-2-327fb3a64e09819ca90fd2c2c7be2533)
